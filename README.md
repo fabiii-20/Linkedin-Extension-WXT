@@ -1,3 +1,6 @@
-# WXT + React
+# Linkedin Extension using WXT and React
 
-This template should help get you started developing with React in WXT.
+Demo video: 
+
+https://github.com/user-attachments/assets/57aea1e6-e1e4-4e30-8a58-800023484712
+
